@@ -20,13 +20,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/franklin/index.html</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/index/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
