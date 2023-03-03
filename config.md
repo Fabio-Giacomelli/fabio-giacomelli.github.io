@@ -2,9 +2,8 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Fabio Giacomelli"
+author = "Septimia Zenobia"
 mintoclevel = 2
-prepath = "acad"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
