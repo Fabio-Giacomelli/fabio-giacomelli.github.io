@@ -11,6 +11,7 @@ mintoclevel = 2
 # you might not want. Indicate directories by ending the name with a `/`.
 # Base files such as LICENSE.md and README.md are ignored by default.
 ignore = ["node_modules/"]
+@def prepath = ""
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
