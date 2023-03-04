@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  More goodies  ]]>
   </title>
-  <link> https://fabio-giacomelli.github.io/publications/index.html </link>
-  <guid> https://fabio-giacomelli.github.io/publications/index.html </guid>
+  <link>  </link>
+  <guid>  </guid>
   <description>
     <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="" />  ]]>
   </description>  
@@ -38,11 +38,11 @@
 <h2 id="more_markdown_support">More markdown support</h2>
 <p>The Julia Markdown parser in Julia&#39;s stdlib is not exactly complete and Franklin strives to bring useful extensions that are either defined in standard specs such as Common Mark or that just seem like useful extensions.</p>
 <ul>
-<li><p>indirect references for instance <a href="http://existentialcomics.com/">like so</a></p>
+<li><p>indirect references for instance &#91;like so&#93;</p>
 </li>
 </ul>
 <p> or also for images</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Krul.svg" alt="some image"></p>
+<p>&#33;&#91;&#93;&#91;some image&#93;</p>
 <p>some people find that useful as it allows referring multiple times to the same link for instance.</p><ul>
 <li><p>un-qualified code blocks are allowed and are julia by default, indented code blocks are not supported by default &#40;and there support will disappear completely in later version&#41;</p>
 </li>
@@ -88,7 +88,7 @@ end</code></pre>.hf {background-color:black;color:white;font-weight:bold;}<p>Can
   var &#61; vname&#91;1&#93;
   return pagevar&#40;&quot;publicatoins&quot;, var&#41;
 end</code></pre>
-<p>Which you can use like this <code>&#123;&#123;m1fill title&#125;&#125;</code>: <strong>nothing</strong>. Of course  in this specific case you could also have used <code>&#123;&#123;fill title publications&#125;&#125;</code>: <strong>More goodies</strong>.</p>
+<p>Which you can use like this <code>&#123;&#123;m1fill title&#125;&#125;</code>: <strong>Fabio Giacomelli</strong>. Of course  in this specific case you could also have used <code>&#123;&#123;fill title publications&#125;&#125;</code>: <strong>More goodies</strong>.</p>
 <p>Of course these examples are not very useful, in practice you might want to use it to generate actual HTML in a specific way using Julia code. For instance you can use it to customise how <a href="https://fabio-giacomelli.github.io/menu3/#customising_tag_pages">tag pages look like</a>.</p>
 <p>A nice example of what you can do is in the <a href="https://juliasymbolics.github.io/SymbolicUtils.jl/api/">SymbolicUtils.jl manual</a> where they use a <code>hfun_</code> to generate HTML encapsulating the content of code docstrings, in a way doing something similar to what Documenter does. See <a href="https://github.com/JuliaSymbolics/SymbolicUtils.jl/blob/website/utils.jl">how they defined it</a>.</p>
 <p><strong>Note</strong>: the  output <strong>will not</strong> be reprocessed by Franklin, if you want to generate markdown which should be processed by Franklin, then use <code>return fd2html&#40;markdown, internal&#61;true&#41;</code> at the end.</p>
