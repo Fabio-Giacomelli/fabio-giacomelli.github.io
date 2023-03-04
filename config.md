@@ -13,6 +13,7 @@ ignore = ["node_modules/"]
 prepath = ""
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
+title = "Fabio Giacomelli"
 website_title = "Fabio Giacomelli"
 website_descr = "My Home Page"
 website_url   = "https://fabio-giacomelli.github.io/"
