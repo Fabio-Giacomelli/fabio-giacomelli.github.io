@@ -1,0 +1,20 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: ID utente:	Fabio Giacomelli <fabiogiacomelli@uniroma2.it>
+Comment: Valido da:	09/03/23 17:29
+Comment: Valido fino a:	09/03/25 23:59
+Comment: Tipo:	EdDSA a 255 bit (chiave segreta disponibile)
+Comment: Uso:	Firma, Cifratura, Certificazione degli ID utente
+Comment: Impronta digitale:	190CEDC7DB278BFB8DDFAD2303805B80C8B0C1FC
+
+mDMEZAoJYhYJKwYBBAHaRw8BAQdALB8y1XWLHXuLwQZ3TJvDRR6w3rMV0XmPZ7Tc
+W9A84Hm0LkZhYmlvIEdpYWNvbWVsbGkgPGZhYmlvZ2lhY29tZWxsaUB1bmlyb21h
+Mi5pdD6ImQQTFgoAQQIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgBYhBBkM
+7cfbJ4v7jd+tIwOAW4DIsMH8BQJkCg+1BQkDxBQMAAoJEAOAW4DIsMH8uNUA/RuS
+45th3qchsSkIBadwgBIjGAKw6LxCZsdRyStxCYDyAQDQZA31/bPEBcgrT117xZ3y
+IomWOOhaIrpzwCNkM1hyA7g4BGQKCWISCisGAQQBl1UBBQEBB0BWrcAVCiRz6OkK
+BoFbu9vQQ25CinT/8Je+p3T8O5GeQQMBCAeIfgQYFgoAJgIbDBYhBBkM7cfbJ4v7
+jd+tIwOAW4DIsMH8BQJkCg+5BQkDxBQQAAoJEAOAW4DIsMH8/FYBALej3bwpGOks
+HcG9js0onpwMQTfw/mBP1pLumBoNxxicAP0TEGVz+qS5Y2W+H9KV9Jz0/a5O2xiy
+Qaq8vmZQweS4Bw==
+=taK1
+-----END PGP PUBLIC KEY BLOCK-----

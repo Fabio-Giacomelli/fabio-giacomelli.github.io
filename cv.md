@@ -1,3 +1,9 @@
++++
+title="Curriculum Vitae"
++++
+
+# Curriculum Vitae
+
 ## Education
 
 Since December 2022: PhD in Blockchain and Distributed Ledger Technologies 
