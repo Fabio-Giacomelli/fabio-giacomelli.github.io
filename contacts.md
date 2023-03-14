@@ -13,3 +13,5 @@ Via Ricerca Scientifica, 1
 
 Room: 0117
 Phone: [+390672594631](tel:+390672594631)
+
+[OpenPGP](/assets/fabio-giacomelli.txt)
