@@ -4,4 +4,4 @@ title="Teaching"
 
 # Teaching
 
-[Propositional Logic](/reveal-md-github-pages/lrl/Propositional_Logic)
+[Propositional Logic](/reveal-md-github-pages/Propositional_Logic)
