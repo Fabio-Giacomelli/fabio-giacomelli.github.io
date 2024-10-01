@@ -12,7 +12,7 @@ University "Tor Vergata" of Rome
 Via Ricerca Scientifica, 1
 00133 Roma, ITALY
 
-Room: 0117
-Phone: [+390672594631](tel:+390672594631)
+Room:
+Phone: 
 
 [OpenPGP](/assets/fabio-giacomelli.txt)
