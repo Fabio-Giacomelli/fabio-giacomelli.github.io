@@ -10,4 +10,4 @@ I am a PhD student in Blockchain and Distributed Ledger Technologies at [Univers
 
 ## Research
 
-My research interests lie at the intersection of algorithmic and game theoretical concepts with distributed networks, with a particular focus on blockchain technology. I am particularly interested in studying the foundation of layer 2 protocols. Through my research, I hope to contribute to the development of innovative and efficient solutions for decentralized systems. 
+My research interests lie at the intersection of algorithmic and game theoretical concepts with distributed networks, with a particular focus on blockchain technologies. I am particularly interested in layer-2 protocols such as the Bitcoin Lightning Network. 
