@@ -6,4 +6,4 @@ title="Publications"
 
 ## Disassortative dynamic BA models inspired by the Bitcoin Lightning Network
 Taki E. Abedesselam, Fabio Giacomelli, Francesco Pasquale
-to appear in PerCom2025
+BRAIN 2025 @ IEEE PerCom 2025
