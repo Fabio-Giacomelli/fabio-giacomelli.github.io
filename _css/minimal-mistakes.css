@@ -3299,6 +3299,13 @@ body:hover .visually-hidden button {
   color: #fa9b39;
 }
 
+.social-icons .fa-google-scholar {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  fill: #4285F4;
+}
+
 .social-icons .fa-soundcloud {
   color: #f30;
 }
