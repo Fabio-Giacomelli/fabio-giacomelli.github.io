@@ -7,7 +7,7 @@ title="Curriculum Vitae"
 ## Education
 
 December 2022-June 2026: PhD in Blockchain and Distributed Ledger Technologies 
-- Institute: [University of Rome Tor Vergata](https://web.uniroma2.it/)
+- Institute: [University of Rome Tor Vergata](https://web.uniroma2.it/) and University of Camerino
 - Supervisor: [Francesco Pasquale](https://www.mat.uniroma2.it/~pasquale/)
 
 October 2022: MSc in Computer Science (cum Laude) 

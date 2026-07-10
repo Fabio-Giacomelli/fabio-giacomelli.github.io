@@ -10,4 +10,4 @@ I am a PhD in Blockchain and Distributed Ledger Technologies at [University of R
 
 ## Research
 
-My research interests lie at the intersection of algorithmic and game theoretical concepts with distributed networks, with a particular focus on blockchain technologies. I am particularly interested in layer-2 protocols such as the Bitcoin Lightning Network. 
+My main interests are the algorithmic and game-theoretic aspects of distributed networks, with a particular focus on blockchain technologies. I am particularly interested in layer-2 protocols such as the Bitcoin Lightning Network. 
